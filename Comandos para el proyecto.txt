@@ -1,0 +1,1 @@
+code ./ -r 			(Abre visual studio code, reutilizando la ventana de vs code actual con la carpeta donde tengo la terminal)
